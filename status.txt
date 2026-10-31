@@ -1,0 +1,22 @@
+passage: 64 (push)
+résultat: success
+date: 2026-10-31T13:45:22Z
+commit: 72c91e5f6c9a9be8f840988c3156cb008f7db90e
+
+8 articles lus sur 3 page(s) ; 313 déjà sur le site
+Choix des couvertures pour 1 article(s) (groupe 1)…
+Détourage, essai 1 : 1 article(s)…
+[0;93m2026-10-31 13:39:33.718963472 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Loading weights:   0%|          | 0/978 [00:00<?, ?it/s]Loading weights:  45%|████▍     | 438/978 [00:00<00:00, 4367.24it/s]Loading weights:  90%|████████▉ | 880/978 [00:00<00:00, 4387.80it/s]Loading weights: 100%|██████████| 978/978 [00:00<00:00, 4315.14it/s]
+~ 4622 Nike × CPFM Air Force 1 Low Moss : couverture refaite (photo 3)
+Site mis à jour : 313 articles.
+From https://github.com/best-finds-vytoxx/best-finds-vytoxx.github.io
+   72c91e5..fb99f89  main         -> origin/main
+ * [new branch]      lab          -> origin/lab
+ * [new branch]      lab-out      -> origin/lab-out
+ * [new branch]      refonte      -> origin/refonte
+ * [new branch]      robot-status -> origin/robot-status
+ * [new branch]      test-push    -> origin/test-push
+Rebasing (1/1)Successfully rebased and updated refs/heads/main.
+To https://github.com/best-finds-vytoxx/best-finds-vytoxx.github.io
+   fb99f89..735c367  main -> main
